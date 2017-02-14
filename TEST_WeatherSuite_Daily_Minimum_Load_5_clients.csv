@@ -1,0 +1,403 @@
+Time,Site,Live/Recording,Activity,Studio,"MachineType","MachineName","ShowDuration",Outlet,"TestPlaylist",Description,Notes
+0:00,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343651,1'00,BBC World,2,Qatar Airways global,
+0:00,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343709,1'30,BBC World and website,2,World Region A (Asia-Pacific),
+0:05,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343710,1'30,BBC World and website,2,World Region B (South and Central Asia),
+0:10,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343711,1'30,BBC World and website,2,World Region C (North America),
+0:10,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343708,1'30,BBC World and website,2,World Region A (Asia-Pacific),
+0:15,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343651,1'30,BBC World and website,2,World Region D (South and Central America),
+0:20,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343709,1'30,BBC World and website,2,World Region E (Europe),
+0:25,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343710,1'30,BBC World and website,2,World Region F (Middle East and Africa),
+0:25,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343711,1'30,BBC World and website,2,World Region B (South and Central Asia),
+0:40,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343708,1'30,BBC World and website,2,World Region C (North America),
+0:55,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343651,1'30,BBC World and website,2,World Region D (South and Central America),
+1:10,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343709,1'30,BBC World and website,2,World Region E (Europe),
+1:25,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343710,1'30,BBC World and website,2,World Region F (Middle East and Africa),
+1:40,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343711,1'00,BBC World,2,Qatar Airways global,
+3:00,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343708,2'30,BBC One and BBC News,3,Breakfast 2'30 back-up,For emergency use if Salford cannot connect to Studio H or OB truck
+3:00,London - NBH,Recording,Loading in Studio,H,Playout,F1-D0N343651,2'30,BBC One and BBC News,3,Breakfast 2'30 back-up,For emergency use if Salford cannot connect to Studio H or OB truck
+3:05,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343709,1'00,BBC One and BBC News,3,Breakfast 1'00 back-up,For emergency use if Salford cannot connect to Studio H or OB truck
+3:10,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343710,0'10,BBC One and BBC News,3,Breakfast headline back-up,For emergency use if Salford cannot connect to Studio H or OB truck
+3:15,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343711,2'30,BBC One and BBC News,3,Breakfast 2'30 OB - graphics only,Only on Breakfast weather OB days. For Salford gallery to play out mixed with OB pictures
+3:20,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343708,1'00,BBC One and BBC News,3,Breakfast 1'00 OB - graphics only,Only on Breakfast weather OB days. For Salford gallery to play out mixed with OB pictures
+3:30,London - NBH,Recording,Loading in Studio,H,Playout,F1-D0N343651,1'00,BBC One and BBC News,3,Breakfast 1'00 back-up,For emergency use if Salford cannot connect to Studio H or OB truck
+3:50,London - NBH,Recording,Loading in Studio,H,Playout,F1-D0N343709,0'10,BBC One and BBC News,3,Breakfast headline back-up,For emergency use if Salford cannot connect to Studio H or OB truck
+4:10,London - NBH,Recording,Loading in Studio,H,Playout,F1-D0N343710,2'30,BBC One and BBC News,3,Breakfast 2'30 OB - graphics only,Only on Breakfast weather OB days. For Salford gallery to play out mixed with OB pictures
+4:30,London - NBH,Recording,Loading in Studio,H,Playout,F1-D0N343711,1'00,BBC One and BBC News,3,Breakfast 1'00 OB - graphics only,Only on Breakfast weather OB days. For Salford gallery to play out mixed with OB pictures
+5:00,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343708,Varies,BBC One London,3,London Breakfast + OOV,Also clipped/delivered by presenter or gallery for website
+5:05,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343651,Varies,BBC One Norwich,0,Norwich Breakfast + OOV,Also clipped/delivered by presenter or gallery for website
+5:10,Leeds,Recording,Loading for Edit,N/A,Edit,F1-D0N343709,0'35+0'10,BBC One Newcastle,0,Also clipped/delivered by gallery for website,
+5:10,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343710,Varies,BBC One Tunbridge Wells,0,Tunbridge Wells Breakfast + OOV,Also clipped/delivered by presenter or gallery for website
+5:15,Plymouth,Recording,Loading for Edit,N/A,Edit,F1-D0N343711,Varies,BBC One Plymouth,0,Also clipped/delivered by presenter or gallery for website,
+5:20,Nottingham,Recording,Loading for Edit,N/A,Edit,F1-D0N343708,Varies,BBC One Nottingham,0,Also clipped/delivered by presenter or gallery for website,
+5:20,Plymouth,Recording,Loading for Edit,N/A,Edit,F1-D0N343651,Varies,BBC One Bristol,0,Also clipped/delivered by presenter or gallery for website,
+5:25,Plymouth,Recording,Loading for Edit,N/A,Edit,F1-D0N343709,Varies,BBC One Southampton,0,Also clipped/delivered by presenter or gallery for website,
+5:30,Belfast,Recording,Loading for Edit,N/A,Edit,F1-D0N343710,Varies,BBC One Northern Ireland,1,Also clipped/delivered by presenter or gallery for website,
+5:30,Leeds,Recording,Loading for Edit,N/A,Edit,F1-D0N343711,0'40,BBC Ones Hull and Leeds,0,Also clipped/delivered by gallery for website,
+5:30,Nottingham,Recording,Loading in Studio,Nottingham,Playout,F1-D0N343708,Varies,BBC One Nottingham,0,Also clipped/delivered by presenter or gallery for website,
+5:30,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343651,Varies,BBC One London,3,London Breakfast + OOV,Also clipped/delivered by presenter or gallery for website
+5:40,Cardiff,Recording,Loading for Edit,N/A,Edit,F1-D0N343709,Varies,BBC One Wales,1,Also clipped/delivered by presenter or gallery for website,
+5:40,Leeds,Recording,Loading for Edit,N/A,Edit,F1-D0N343710,0'30,Facebook,0,Published by presenter,
+5:40,Nottingham,Recording,Loading for Edit,N/A,Edit,F1-D0N343711,Varies,BBC One Birmingham,0,Also clipped/delivered by presenter or gallery for website,
+5:45,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343708,Varies,BBC One Norwich,0,Norwich Breakfast + OOV,Also clipped/delivered by presenter or gallery for website
+5:50,Glasgow,Recording,Loading for Edit,N/A,Edit,F1-D0N343651,Varies,BBC One Scotland,1,Also clipped/delivered by presenter or gallery for website,
+5:50,Nottingham,Recording,Loading in Studio,Nottingham,Playout,F1-D0N343709,Varies,BBC One Birmingham,0,Also clipped/delivered by presenter or gallery for website,
+5:50,Plymouth,Recording,Loading in Studio,Plymouth,Playout,F1-D0N343710,Varies,BBC One Plymouth,0,Also clipped/delivered by presenter or gallery for website,
+5:50,London - NBH,Live,Loading for Edit,N/A,Edit,F1-D0N343711,0'10,BBC 1,3,Breakfast headline,"Or gfx created overnight, sent to Salford, played by Salford gallery for OB"
+5:54,Belfast,Recording,Loading in Studio,Belfast,Playout,F1-D0N343708,Varies,BBC One Northern Ireland,1,Also clipped/delivered by presenter or gallery for website,
+5:55,Plymouth,Recording,Loading in Studio,Plymouth,Playout,F1-D0N343651,Varies,BBC One Bristol,0,Also clipped/delivered by presenter or gallery for website,
+5:57,Cardiff,Recording,Loading in Studio,Cardiff,Playout,F1-D0N343709,Varies,BBC One Wales,1,Also clipped/delivered by presenter or gallery for website,
+6:00,Glasgow,Recording,Loading in Studio,Glasgow,Playout,F1-D0N343710,Varies,BBC One Scotland,1,Also clipped/delivered by presenter or gallery for website,
+6:00,Leeds,Recording,Loading for Edit,N/A,Edit,F1-D0N343711,0'30,Facebook,0,Published by presenter,
+6:00,Leeds,Recording,Loading in Studio,Leeds Weather CSO,Playout,F1-D0N343708,0'35+0'10,BBC One Newcastle,0,Also clipped/delivered by gallery for website,
+6:00,Nottingham,Recording,Loading for Edit,N/A,Edit,F1-D0N343651,Varies,BBC One Manchester,0,Also clipped/delivered by presenter or gallery for website,
+6:00,Plymouth,Recording,Loading in Studio,Plymouth,Playout,F1-D0N343709,Varies,BBC One Southampton,0,Also clipped/delivered by presenter or gallery for website,
+6:00,London - NBH,Live,Loading for Edit,N/A,Edit,F1-D0N343710,2'15,BBC 1,3,Breakfast ,"Or gfx created overnight, sent to Salford, played by Salford gallery for OB"
+6:00,London - NBH,Live,Loading in Studio,H,Playout,F1-D0N343711,0'10,BBC 1,3,Breakfast headline,"Or gfx created overnight, sent to Salford, played by Salford gallery for OB"
+6:00,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343708,Varies,BBC One Tunbridge Wells,0,Tunbridge Wells Breakfast + OOV,Also clipped/delivered by presenter or gallery for website
+6:10,Nottingham,Recording,Loading in Studio,Nottingham,Playout,F1-D0N343651,Varies,BBC One Manchester,0,Also clipped/delivered by presenter or gallery for website,
+6:20,Leeds,Recording,Loading in Studio,Leeds Weather CSO,Playout,F1-D0N343709,0'40,BBC Ones Hull and Leeds,0,Also clipped/delivered by gallery for website,
+6:25,London - NBH,Live,Loading for Edit,N/A,Edit,F1-D0N343710,2'15,BBC 1,3,Breakfast,"Or gfx created overnight, sent to Salford, played by Salford gallery for OB"
+6:25,London - NBH,Live,Loading in Studio,H,Playout,F1-D0N343711,2'15,BBC 1,3,Breakfast ,"Or gfx created overnight, sent to Salford, played by Salford gallery for OB"
+6:30,Belfast,Live,Loading for Edit,N/A,Edit,F1-D0N343708,Typically <1'00,BBC One Northern Ireland,1,Breakfast ,
+6:35,Cardiff,Live,Loading for Edit,N/A,Edit,F1-D0N343651,Typically <1'00,BBC One Wales,1,Breakfast ,
+6:40,Glasgow,Live,Loading for Edit,N/A,Edit,F1-D0N343709,Typically <1'00,BBC One Scotland,1,Breakfast ,
+6:40,Leeds,Recording,Loading in Studio,Leeds Weather CSO,Playout,F1-D0N343710,0'30,Facebook,0,Published by presenter,
+6:40,Nottingham,Live,Loading for Edit,N/A,Edit,F1-D0N343711,Typically <1'00,BBC One Nottingham,0,Breakfast ,
+6:45,Leeds,Live,Loading for Edit,N/A,Edit,F1-D0N343708,Typically <1'00,BBC One Leeds,0,Breakfast ,
+6:45,London - NBH,Live,Loading in Studio,H,Playout,F1-D0N343651,2'15,BBC 1,3,Breakfast,"Or gfx created overnight, sent to Salford, played by Salford gallery for OB"
+6:50,London - Peel,Live,Loading for Edit,N/A,Edit,F1-D0N343709,Typically <1'00,BBC One London,0,Breakfast ,
+6:50,London - NBH,Live,Loading for Edit,N/A,Edit,F1-D0N343710,0'10,BBC 1,3,Breakfast headline,"Or gfx created overnight, sent to Salford, played by Salford gallery for OB"
+6:55,Plymouth,Live,Loading for Edit,N/A,Edit,F1-D0N343711,Typically <1'00,BBC One Plymouth,0,Breakfast ,
+6:55,London - NBH,Live,Loading for Edit,N/A,Edit,F1-D0N343708,2'15,BBC 1,3,Breakfast,"Or gfx created overnight, sent to Salford, played by Salford gallery for OB"
+6:57,Cardiff,Live,Loading in Studio,Cardiff,Playout,F1-D0N343651,Typically <1'00,BBC One Wales,1,Breakfast ,
+6:57,Glasgow,Live,Loading in Studio,Glasgow,Playout,F1-D0N343709,Typically <1'00,BBC One Scotland,1,Breakfast ,
+6:57,Leeds,Live,Loading in Studio,Leeds,Playout,F1-D0N343710,Typically <1'00,BBC One Leeds,0,Breakfast ,
+6:57,Plymouth,Live,Loading in Studio,Plymouth,Playout,F1-D0N343711,Typically <1'00,BBC One Plymouth,0,Breakfast ,
+6:57,Belfast,Live,Loading in Studio,Belfast,Playout,F1-D0N343708,Typically <1'00,BBC One Northern Ireland,1,Breakfast ,
+6:57,London - Peel,Live,Loading in Studio,London,Playout,F1-D0N343651,Typically <1'00,BBC One London,0,Breakfast ,
+7:00,Leeds,Recording,Loading in Studio,Leeds Weather CSO,Playout,F1-D0N343709,0'30,Facebook,0,Published by presenter,
+7:00,Nottingham,Live,Loading in Studio,Nottingham,Playout,F1-D0N343710,Typically <1'00,BBC One Nottingham,0,Breakfast ,
+7:00,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343711,2'00,BBC News,3,UK 2'00,
+7:00,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343708,2'30,BBC News and website,3,UK 2'30,
+7:00,London - NBH,Live,Loading in Studio,H,Playout,F1-D0N343651,0'10,BBC 1,3,Breakfast headline,"Or gfx created overnight, sent to Salford, played by Salford gallery for OB"
+7:00,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343709,2'00,BBC News,3,UK 2'00,
+7:10,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343710,1'00,BBC News,3,UK 1'00,
+7:15,London - NBH,Live,Loading in Studio,H,Playout,F1-D0N343711,2'15,BBC 1,3,Breakfast,"Or gfx created overnight, sent to Salford, played by Salford gallery for OB"
+7:20,London - NBH,Live,Loading for Edit,N/A,Edit,F1-D0N343708,2'00,BBC 1,3,Breakfast ,"Or gfx created overnight, sent to Salford, played by Salford gallery for OB"
+7:30,Belfast,Live,Loading for Edit,N/A,Edit,F1-D0N343651,Typically <1'00,BBC One Northern Ireland,1,Breakfast ,
+7:30,Nottingham,Live,Loading for Edit,N/A,Edit,F1-D0N343709,Typically <1'00,BBC One Nottingham,0,Breakfast ,
+7:30,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343710,1'15,Forces TV (BFBS),2,BFBS UK 1'15,Collected by BFBS from Davina
+7:30,London - NBH,Live,Loading in Studio,H,Playout,F1-D0N343711,2'00,BBC 1,3,Breakfast ,"Or gfx created overnight, sent to Salford, played by Salford gallery for OB"
+7:35,Cardiff,Live,Loading for Edit,N/A,Edit,F1-D0N343708,Typically <1'00,BBC One Wales,1,Breakfast ,
+7:40,Glasgow,Live,Loading for Edit,N/A,Edit,F1-D0N343651,Typically <1'00,BBC One Scotland,1,Breakfast ,
+7:45,Leeds,Live,Loading for Edit,N/A,Edit,F1-D0N343709,Typically <1'00,BBC One Leeds,0,Breakfast ,
+7:45,London - NBH,Recording,Loading in Studio,H,Playout,F1-D0N343710,0'30,BBC Arabic,2,Arabic Gulf morning - graphics only,Currently sent as one show with the following five and split for transmission by Arabic playout
+7:45,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343711,2'30,BBC News and website,3,UK 2'30,
+7:50,Plymouth,Live,Loading for Edit,N/A,Edit,F1-D0N343708,Typically <1'00,BBC One Plymouth,0,Breakfast ,
+7:50,London - Peel,Live,Loading for Edit,N/A,Edit,F1-D0N343651,Typically <1'00,BBC One London,0,Breakfast ,
+7:50,London - NBH,Live,Loading for Edit,N/A,Edit,F1-D0N343709,0'10,BBC 1,3,Breakfast headline,"Or gfx created overnight, sent to Salford, played by Salford gallery for OB"
+7:55,London - NBH,Live,Loading for Edit,N/A,Edit,F1-D0N343710,2'15,BBC 1,3,Breakfast ,"Or gfx created overnight, sent to Salford, played by Salford gallery for OB"
+7:57,Cardiff,Live,Loading in Studio,Cardiff,Playout,F1-D0N343711,Typically <1'00,BBC One Wales,1,Breakfast ,
+7:57,Glasgow,Live,Loading in Studio,Glasgow,Playout,F1-D0N343708,Typically <1'00,BBC One Scotland,1,Breakfast ,
+7:57,Leeds,Live,Loading in Studio,Leeds,Playout,F1-D0N343651,Typically <1'00,BBC One Leeds,0,Breakfast ,
+7:57,Nottingham,Live,Loading in Studio,Nottingham,Playout,F1-D0N343709,Typically <1'00,BBC One Nottingham,0,Breakfast ,
+7:57,Plymouth,Live,Loading in Studio,Plymouth,Playout,F1-D0N343710,Typically <1'00,BBC One Plymouth,0,Breakfast ,
+7:57,Belfast,Live,Loading in Studio,Belfast,Playout,F1-D0N343711,Typically <1'00,BBC One Northern Ireland,1,Breakfast ,
+7:57,London - Peel,Live,Loading in Studio,London,Playout,F1-D0N343708,Typically <1'00,BBC One London,0,Breakfast ,
+8:00,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343651,0'30,BBC Arabic,2,Arabic Gulf evening - graphics only,
+8:00,London - NBH,Live,Loading in Studio,H,Playout,F1-D0N343709,0'10,BBC 1,3,Breakfast headline,"Or gfx created overnight, sent to Salford, played by Salford gallery for OB"
+8:00,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343710,3'00,BBC World  ,2,World 0900 Extended 3'00,
+8:00,London - NBH,Recording,Loading in Studio,H,Playout,F1-D0N343711,0'30,BBC Arabic,2,Arabic Gulf evening - graphics only,
+8:00,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343708,1'00,BBC News,3,UK 1'00,
+8:05,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343651,2'00,BBC World  ,2,World 0900 Extended 2'00,
+8:15,London - NBH,Live,Loading in Studio,H,Playout,F1-D0N343709,2'15,BBC 1,3,Breakfast ,"Or gfx created overnight, sent to Salford, played by Salford gallery for OB"
+8:15,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343710,1'15,Forces TV (BFBS),2,BFBS UK 1'15,Collected by BFBS from Davina
+8:20,London - NBH,Live,Loading for Edit,N/A,Edit,F1-D0N343711,2'15,BBC 1,3,Breakfast ,"Or gfx created overnight, sent to Salford, played by Salford gallery for OB"
+8:20,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343708,0'30,BBC Arabic,2,Arabic Gulf morning - graphics only,Currently sent as one show with the following five and split for transmission by Arabic playout
+8:25,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343651,0'30,BBC Arabic,2,Arabic North Africa morning - graphics only,
+8:30,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343709,0'30,BBC Arabic,2,Arabic North Africa evening - graphics only,
+8:30,London - NBH,Recording,Loading in Studio,H,Playout,F1-D0N343710,0'30,BBC Arabic,2,Arabic North Africa morning - graphics only,
+8:30,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343711,3'00,BBC World  ,2,World 0900 Extended 3'00,
+8:35,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343708,0'30,BBC Arabic,2,Arabic global morning - graphics only,
+8:40,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343651,0'30,BBC Arabic,2,Arabic global evening - graphics only,
+8:40,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343709,1'00,BBC Persian,2,Persian 1'00 global - graphics only,
+8:45,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343710,1'00,BBC Persian,2,Persian 1'00 Iran - graphics only,Currently sent as one show with the following one and split for transmission by Persian playout
+8:45,London - NBH,Recording,Loading in Studio,H,Playout,F1-D0N343711,0'30,BBC Arabic,2,Arabic North Africa evening - graphics only,
+8:45,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343708,2'00,BBC World  ,2,World 0900 Extended 2'00,
+8:50,London - NBH,Live,Loading for Edit,N/A,Edit,F1-D0N343651,2'30,BBC News,3,BBC News,
+8:50,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343709,1'30,BBC World and website,2,World Region A (Asia-Pacific),
+8:55,London - NBH,Live,Loading for Edit,N/A,Edit,F1-D0N343710,2'30+,BBC 2,3,Victoria Derbyshire,Created early so that back-up gfx can be sent to gallery. Simulcast on BBC News
+9:00,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343711,1'30,BBC World and website,2,World Region B (South and Central Asia),
+9:00,London - NBH,Recording,Loading in Studio,H,Playout,F1-D0N343708,0'30,BBC Arabic,2,Arabic global morning - graphics only,
+9:00,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343651,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+9:10,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343709,1'30,BBC World and website,2,World Region C (North America),
+9:10,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343710,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+9:15,London - NBH,Recording,Loading in Studio,H,Playout,F1-D0N343711,0'30,BBC Arabic,2,Arabic global evening - graphics only,
+9:20,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343708,1'30,BBC World and website,2,World Region D (South and Central America),
+9:20,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343651,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+9:30,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343709,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+9:30,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343710,1'30,BBC World and website,2,World Region E (Europe),
+9:30,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343711,1'30,BBC World and website,2,World Region F (Middle East and Africa),
+9:30,London - NBH,Live,Loading in Studio,H,Playout,F1-D0N343708,2'15,BBC 1,3,Breakfast ,"Or gfx created overnight, sent to Salford, played by Salford gallery for OB"
+9:30,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343651,1'30,BBC World and website,2,World Region A (Asia-Pacific),
+9:40,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343709,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+9:45,London - NBH,Recording,Loading in Studio,H,Playout,F1-D0N343710,1'00,BBC Persian,2,Persian 1'00 Iran - graphics only,Currently sent as one show with the following one and split for transmission by Persian playout
+9:45,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343711,1'30,BBC World and website,2,World Region B (South and Central Asia),
+9:50,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343708,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+9:50,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343651,2'15,Forces TV (BFBS),2,BFBS global 2'15,Collected by BFBS from Davina
+9:57,London - NBH,Live,Loading in Studio,B,Playout,F1-D0N343709,2'30+,BBC 2,3,Victoria Derbyshire,Created early so that back-up gfx can be sent to gallery. Simulcast on BBC News
+10:00,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343710,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+10:00,London - NBH,Recording,Loading in Studio,H,Playout,F1-D0N343711,1'00,BBC Persian,2,Persian 1'00 global - graphics only,
+10:00,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343708,1'30,BBC World and website,2,World Region C (North America),
+10:10,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343651,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+10:15,London - NBH,Live,Loading in Studio,H,Playout,F1-D0N343709,2'30,BBC News,3,BBC News,
+10:15,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343710,1'30,BBC World and website,2,World Region D (South and Central America),
+10:20,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343711,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+10:30,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343708,2'15,Forces TV (BFBS),2,BFBS global 2'15,Collected by BFBS from Davina
+10:30,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343651,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+10:30,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343709,1'30,BBC World and website,2,World Region E (Europe),
+10:40,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343710,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+10:45,London - NBH,Live,Loading for Edit,N/A,Edit,F1-D0N343711,1'00,BBC 2,3,BBC News,Simulcast on BBC News
+10:45,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343708,1'30,BBC World and website,2,World Region F (Middle East and Africa),
+10:50,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343651,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+10:57,London - NBH,Live,Loading in Studio,H,Playout,F1-D0N343709,1'00,BBC 2,3,BBC News,Simulcast on BBC News
+11:00,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343710,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+11:10,London - NBH,Live,Loading for Edit,N/A,Edit,F1-D0N343711,1'00,BBC 2,3,BBC News,Simulcast on BBC News
+11:10,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343708,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+11:20,Nottingham,Recording,Loading for Edit,N/A,Edit,F1-D0N343651,Varies,BBC One Birmingham,0,Also clipped/delivered by presenter or gallery for website,
+11:20,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343709,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+11:27,London - NBH,Live,Loading in Studio,J,Playout,F1-D0N343710,1'00,BBC 2,3,BBC News,Simulcast on BBC News
+11:30,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343711,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+11:40,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343708,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+11:40,London - NBH,Live,Loading for Edit,N/A,Edit,F1-D0N343651,2'30,BBC News,3,BBC News,
+11:40,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343709,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+11:43,Nottingham,Recording,Loading for Edit,N/A,Edit,F1-D0N343710,Varies,BBC One Manchester,0,Also clipped/delivered by presenter or gallery for website,
+11:45,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343711,2'30,BBC News and website,3,UK 2'30,
+11:45,London - NBH,Live,Loading for Edit,N/A,Edit,F1-D0N343708,2'30,BBC 1,3,News at One,Created early so that back-up gfx can be sent to gallery. Simulcast on BBC News
+11:56,Plymouth,Recording,Loading for Edit,N/A,Edit,F1-D0N343651,Varies,BBC One Bristol,0,Also clipped/delivered by presenter or gallery for website,
+11:57,London - NBH,Live,Loading in Studio,J,Playout,F1-D0N343709,2'30,BBC News,3,BBC News,
+12:00,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343710,2'30,BBC One and BBC News,3,UK One back-up - graphics only,Back-up graphics for gallery use in case gallery cannot get Weatherscape into screen
+12:00,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343711,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+12:09,Plymouth,Recording,Loading for Edit,N/A,Edit,F1-D0N343708,Varies,BBC One Southampton,0,Also clipped/delivered by presenter or gallery for website,
+12:10,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343651,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+12:10,London - NBH,Live,Loading for Edit,N/A,Edit,F1-D0N343709,2'30,BBC News,3,BBC News,
+12:10,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343710,1'00,BBC News,3,UK 1'00,
+12:10,London - NBH,Recording,Loading in Studio,H,Playout,F1-D0N343711,2'30,BBC News and website,3,UK 2'30,
+12:15,London - NBH,Recording,Loading in Studio,H,Playout,F1-D0N343708,2'30,BBC One and BBC News,3,UK One back-up - graphics only,Back-up graphics for gallery use in case gallery cannot get Weatherscape into screen
+12:18,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343651,Varies,Facebook,3,London Facebook forecast,"Ad hoc, not every day"
+12:20,London - NBH,Recording,Loading in Studio,H,Playout,F1-D0N343709,1'00,BBC News,3,UK 1'00,
+12:20,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343710,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+12:21,Nottingham,Recording,Loading in Studio,Nottingham,Playout,F1-D0N343711,Varies,BBC One Birmingham,0,Also clipped/delivered by presenter or gallery for website,
+12:24,Nottingham,Recording,Loading in Studio,Nottingham,Playout,F1-D0N343708,Varies,BBC One Manchester,0,Also clipped/delivered by presenter or gallery for website,
+12:25,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343651,Varies,Facebook,3,London Facebook forecast,"Ad hoc, not every day"
+12:27,Plymouth,Recording,Loading in Studio,Plymouth,Playout,F1-D0N343709,Varies,BBC One Bristol,0,Also clipped/delivered by presenter or gallery for website,
+12:27,London - NBH,Live,Loading in Studio,J,Playout,F1-D0N343710,2'30,BBC News,3,BBC News,
+12:30,Belfast,Live,Loading for Edit,N/A,Edit,F1-D0N343711,Typically 1'00-2'00,BBC One Northern Ireland,1,News at One,
+12:30,Plymouth,Recording,Loading in Studio,Plymouth,Playout,F1-D0N343708,Varies,BBC One Southampton,0,Also clipped/delivered by presenter or gallery for website,
+12:30,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343651,Varies,BBC One London,3,London Lunch,Also clipped/delivered by presenter or gallery for website
+12:30,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343709,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+12:30,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343710,Varies,BBC One Norwich,0,Norwich Lunch,Also clipped/delivered by presenter or gallery for website
+12:35,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343711,Varies,BBC One London,3,London Lunch,Also clipped/delivered by presenter or gallery for website
+12:40,Cardiff,Live,Loading for Edit,N/A,Edit,F1-D0N343708,Typically 1'00-2'00,BBC One Wales,1,News at One,
+12:40,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343651,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+12:50,Glasgow,Live,Loading for Edit,N/A,Edit,F1-D0N343709,Typically 1'00-2'00,BBC One Scotland,1,News at One,
+12:50,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343710,Varies,BBC One Tunbridge Wells,0,Tunbridge Wells Lunch,Also clipped/delivered by presenter or gallery for website
+12:50,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343711,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+12:50,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343708,Varies,BBC One Norwich,0,Norwich Lunch,Also clipped/delivered by presenter or gallery for website
+13:00,Leeds,Live,Loading for Edit,N/A,Edit,F1-D0N343651,Typically 1'00-2'00,BBC One Leeds,0,News at One,
+13:00,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343709,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+13:05,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343710,Varies,BBC One Tunbridge Wells,0,Tunbridge Wells Lunch,Also clipped/delivered by presenter or gallery for website
+13:10,London - Peel,Live,Loading for Edit,N/A,Edit,F1-D0N343711,Typically 1'00-2'00,BBC One London,0,News at One,
+13:10,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343708,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+13:20,Nottingham,Live,Loading for Edit,N/A,Edit,F1-D0N343651,Typically 1'00-2'00,BBC One Nottingham,0,News at One,
+13:20,London - NBH,Live,Loading for Edit,N/A,Edit,F1-D0N343709,2'30,BBC News,3,BBC News,
+13:20,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343710,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+13:27,London - NBH,Live,Loading in Studio,E,Playout,F1-D0N343711,2'30,BBC 1,3,News at One,Created early so that back-up gfx can be sent to gallery. Simulcast on BBC News
+13:30,Plymouth,Live,Loading for Edit,N/A,Edit,F1-D0N343708,Typically 1'00-2'00,BBC One Plymouth,0,News at One,
+13:30,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343651,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+13:40,Cardiff,Live,Loading in Studio,Cardiff,Playout,F1-D0N343709,Typically 1'00-2'00,BBC One Wales,1,News at One,
+13:40,Glasgow,Live,Loading in Studio,Glasgow,Playout,F1-D0N343710,Typically 1'00-2'00,BBC One Scotland,1,News at One,
+13:40,Leeds,Live,Loading in Studio,Leeds,Playout,F1-D0N343711,Typically 1'00-2'00,BBC One Leeds,0,News at One,
+13:40,Nottingham,Live,Loading in Studio,Nottingham,Playout,F1-D0N343708,Typically 1'00-2'00,BBC One Nottingham,0,News at One,
+13:40,Plymouth,Live,Loading in Studio,Plymouth,Playout,F1-D0N343651,Typically 1'00-2'00,BBC One Plymouth,0,News at One,
+13:40,Belfast,Live,Loading in Studio,Belfast,Playout,F1-D0N343709,Typically 1'00-2'00,BBC One Northern Ireland,1,News at One,
+13:40,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343710,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+13:40,London - Peel,Live,Loading in Studio,London,Playout,F1-D0N343711,Typically 1'00-2'00,BBC One London,0,News at One,
+13:40,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343708,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+13:57,London - NBH,Live,Loading in Studio,J,Playout,F1-D0N343651,2'30,BBC News,3,BBC News,
+14:00,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343709,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+14:10,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343710,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+14:15,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343711,3'00,BBC News,2,World weather for the UK audience,
+14:20,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343708,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+14:25,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343651,2'00,BBC World,2,World 2'00 (editorial content),
+14:27,London - NBH,Live,Loading in Studio,J,Playout,F1-D0N343709,1'00,BBC News,3,BBC News,
+14:30,London - NBH,Live,Loading for Edit,N/A,Edit,F1-D0N343710,1'00,BBC News,3,BBC News,
+14:30,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343711,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+14:40,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343708,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+14:45,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343651,2'00,BBC World,2,World 2'00 (editorial content),
+14:50,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343709,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+14:57,London - NBH,Live,Loading in Studio,J,Playout,F1-D0N343710,2'30,BBC News,3,BBC News,
+15:00,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343711,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+15:00,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343708,1'30,BBC World and website,2,World Region A (Asia-Pacific),
+15:10,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343651,1'30,BBC World and website,2,World Region B (South and Central Asia),
+15:10,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343709,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+15:15,London - NBH,Live,Loading for Edit,N/A,Edit,F1-D0N343710,2'30,BBC News,3,BBC News,
+15:20,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343711,1'30,BBC World and website,2,World Region C (North America),
+15:20,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343708,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+15:27,London - NBH,Live,Loading in Studio,J,Playout,F1-D0N343651,1'00,BBC News,3,BBC News,
+15:30,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343709,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+15:40,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343710,1'30,BBC World and website,2,World Region D (South and Central America),
+15:40,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343711,1'30,BBC World and website,2,World Region E (Europe),
+15:40,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343708,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+15:45,London - NBH,Live,Loading for Edit,N/A,Edit,F1-D0N343651,1'00,BBC News,3,BBC News,
+15:50,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343709,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+15:50,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343710,1'30,BBC World and website,2,World Region F (Middle East and Africa),
+16:00,London - NBH,Live,Loading in Studio,J,Playout,F1-D0N343711,2'30,BBC News,3,BBC News,
+16:00,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343708,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+16:00,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343651,1'30,BBC World and website,2,World Region A (Asia-Pacific),
+16:10,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343709,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+16:10,London - NBH,Live,Loading for Edit,N/A,Edit,F1-D0N343710,2'30,BBC News,3,BBC News,
+16:15,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343711,2'30,BBC News,3,UK 2'30 Five o'clock hour back-up - graphics only,Back-up graphics for gallery use in case gallery cannot get Weatherscape into screen
+16:15,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343708,1'30,BBC World and website,2,World Region B (South and Central Asia),
+16:20,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343651,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+16:20,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343709,1'00,BBC News,3,UK 1'00 Five o'clock hour back-up - graphics only,Back-up graphics for gallery use in case gallery cannot get Weatherscape into screen
+16:27,London - NBH,Live,Loading in Studio,J,Playout,F1-D0N343710,1'00,BBC News,3,BBC News,H if Outside Source in J
+16:30,Plymouth,Recording,Loading for Edit,N/A,Edit,F1-D0N343711,Varies,BBC One Channel Islands,0,Also clipped/delivered by presenter or gallery for website,
+16:30,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343708,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+16:30,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343651,1'30,BBC Four,3,UK BBC Four,
+16:30,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343709,3'00,BBC News,2,World weather for the UK audience,
+16:35,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343710,1'15,Forces TV (BFBS),2,BFBS UK 1'15,Collected by BFBS from Davina
+16:35,London - NBH,Live,Loading for Edit,N/A,Edit,F1-D0N343711,1'00,BBC News,3,BBC News,H if Outside Source in J
+16:40,London - NBH,Recording,Loading in Studio,H,Playout,F1-D0N343708,2'30,BBC News,3,UK 2'30 Five o'clock hour back-up - graphics only,Back-up graphics for gallery use in case gallery cannot get Weatherscape into screen
+16:40,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343651,1'30,BBC World and website,2,World Region E (Europe),
+16:45,London - NBH,Recording,Loading in Studio,H,Playout,F1-D0N343709,1'00,BBC News,3,UK 1'00 Five o'clock hour back-up - graphics only,Back-up graphics for gallery use in case gallery cannot get Weatherscape into screen
+16:45,London - NBH,Live,Loading for Edit,N/A,Edit,F1-D0N343710,2'30,BBC News,3,BBC News,H if Outside Source in J
+16:45,London - NBH,Recording,Loading in Studio,H,Playout,F1-D0N343711,1'30,BBC Four,3,UK BBC Four,
+16:45,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343708,1'30,BBC World and website,2,World Region C (North America),
+16:55,London - NBH,Live,Loading for Edit,N/A,Edit,F1-D0N343651,1'45,BBC 1,3,News at Six,Created early so that back-up gfx can be sent to gallery. Simulcast on BBC News
+16:55,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343709,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+16:55,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343710,1'15,Forces TV (BFBS),2,BFBS UK 1'15,Collected by BFBS from Davina
+17:00,Belfast,Live,Loading for Edit,N/A,Edit,F1-D0N343711,Typically 1'00-2'00,BBC One Northern Ireland,1,News at Six,
+17:00,Plymouth,Recording,Loading in Studio,Plymouth,Playout,F1-D0N343708,Varies,BBC One Channel Islands,0,Also clipped/delivered by presenter or gallery for website,
+17:00,London - NBH,Live,Loading in Studio,J,Playout,F1-D0N343651,2'30,BBC News,3,BBC News,H if Outside Source in J
+17:00,London - NBH,Live,Loading for Edit,N/A,Edit,F1-D0N343709,2'30,BBC News,3,BBC News,Studio H on Fridays
+17:00,London - NBH,Live,Loading for Edit,N/A,Edit,F1-D0N343710,1'00,BBC News,3,BBC News,Studio H on Fridays
+17:00,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343711,1'30,BBC World and website,2,World Region D (South and Central America),
+17:10,London - NBH,Other,Loading for Other,N/A,Edit,F1-D0N343708,Various,N/A,3,"Producer, Forecaster, Graphics Design etc usage",
+17:10,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343651,1'30,BBC World and website,2,World Region F (Middle East and Africa),
+17:15,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343709,1'45,BBC One and BBC News,3,UK Six back-up - graphics only,Back-up graphics for gallery use in case gallery cannot get Weatherscape into screen
+17:27,London - NBH,Live,Loading in Studio,C,Playout,F1-D0N343710,1'00,BBC News,3,BBC News,Studio H on Fridays
+17:30,Birmingham,Live,Loading for Edit,N/A,Edit,F1-D0N343711,Typically 1'00-2'00,BBC One Birmingham,0,News at Six,
+17:30,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343708,1'00,BBC Two,3,Gardeners' World 1'00,Only part of the year while Gardeners' World is broadcast.  Friday ONLY
+17:35,Bristol,Live,Loading for Edit,N/A,Edit,F1-D0N343651,Typically 1'00-2'00,BBC One Bristol,0,News at Six,
+17:40,Cardiff,Live,Loading for Edit,N/A,Edit,F1-D0N343709,Typically 1'00-2'00,BBC One Wales,1,News at Six,
+17:40,London - NBH,Recording,Loading in Studio,H,Playout,F1-D0N343710,1'45,BBC One and BBC News,3,UK Six back-up - graphics only,Back-up graphics for gallery use in case gallery cannot get Weatherscape into screen
+17:45,Glasgow,Live,Loading for Edit,N/A,Edit,F1-D0N343711,Typically 1'00-2'00,BBC One Scotland,1,News at Six,
+17:45,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343708,1'00,BBC Two,3,Gardeners' World 1'00,Only part of the year while Gardeners' World is broadcast.  Friday ONLY
+17:50,Leeds,Live,Loading for Edit,N/A,Edit,F1-D0N343651,Typically 1'00-2'00,BBC One Leeds,0,News at Six,
+17:55,London - Peel,Live,Loading for Edit,N/A,Edit,F1-D0N343709,Typically 1'00-2'00,BBC One London,0,News at Six,
+17:57,London - NBH,Live,Loading in Studio,C,Playout,F1-D0N343710,2'30,BBC News,3,BBC News,Studio H on Fridays
+18:00,Newcastle,Live,Loading for Edit,N/A,Edit,F1-D0N343711,Typically 1'00-2'00,BBC One Newcastle,0,News at Six,
+18:05,Norwich,Live,Loading for Edit,N/A,Edit,F1-D0N343708,Typically 1'00-2'00,BBC One Norwich,0,News at Six,
+18:10,Nottingham,Live,Loading for Edit,N/A,Edit,F1-D0N343651,Typically 1'00-2'00,BBC One Nottingham,0,News at Six,
+18:15,Plymouth,Live,Loading for Edit,N/A,Edit,F1-D0N343709,Typically 1'00-2'00,BBC One Plymouth,0,News at Six,
+18:15,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343710,2'30,BBC News and website,3,UK 2'30,
+18:20,Salford,Live,Loading for Edit,N/A,Edit,F1-D0N343711,Typically 1'00-2'00,BBC One Manchester,0,News at Six,
+18:20,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343708,1'00,BBC News,3,UK 1'00,
+18:25,Southampton,Live,Loading for Edit,N/A,Edit,F1-D0N343651,Typically 1'00-2'00,BBC One Southampton,0,News at Six,
+18:25,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343709,0'35,BBC One HD,3,UK BBC One HD,
+18:27,London - NBH,Live,Loading in Studio,E,Playout,F1-D0N343710,1'45,BBC 1,3,News at Six,Created early so that back-up gfx can be sent to gallery. Simulcast on BBC News
+18:30,Tunbridge Wells,Live,Loading for Edit,N/A,Playout,F1-D0N343711,Typically 1'00-2'00,BBC One Tunbridge Wells,0,News at Six,
+18:30,London - NBH,Recording,Loading in Studio,H,Playout,F1-D0N343708,2'30,BBC News and website,3,UK 2'30,
+18:40,London - NBH,Live,Loading for Edit,N/A,Edit,F1-D0N343651,2'30,BBC News,3,BBC News,
+18:45,London - NBH,Recording,Loading in Studio,H,Playout,F1-D0N343709,1'00,BBC News,3,UK 1'00,
+18:57,Bristol,Live,Loading in Studio,Bristol,Playout,F1-D0N343710,Typically 1'00-2'00,BBC One Bristol,0,News at Six,
+18:57,Cardiff,Live,Loading in Studio,Cardiff,Playout,F1-D0N343711,Typically 1'00-2'00,BBC One Wales,1,News at Six,
+18:57,Glasgow,Live,Loading in Studio,Glasgow,Playout,F1-D0N343708,Typically 1'00-2'00,BBC One Scotland,1,News at Six,
+18:57,Leeds,Live,Loading in Studio,Leeds,Playout,F1-D0N343651,Typically 1'00-2'00,BBC One Leeds,0,News at Six,
+18:57,Newcastle,Live,Loading in Studio,Newcastle,Playout,F1-D0N343709,Typically 1'00-2'00,BBC One Newcastle,0,News at Six,
+18:57,Norwich,Live,Loading in Studio,Norwich,Playout,F1-D0N343710,Typically 1'00-2'00,BBC One Norwich,0,News at Six,
+18:57,Nottingham,Live,Loading in Studio,Nottingham,Playout,F1-D0N343711,Typically 1'00-2'00,BBC One Nottingham,0,News at Six,
+18:57,Salford,Live,Loading in Studio,Salford,Playout,F1-D0N343708,Typically 1'00-2'00,BBC One Manchester,0,News at Six,
+18:57,Plymouth,Live,Loading in Studio,Plymouth,Playout,F1-D0N343651,Typically 1'00-2'00,BBC One Plymouth,0,News at Six,
+18:57,Southampton,Live,Loading in Studio,Southampton,Playout,F1-D0N343709,Typically 1'00-2'00,BBC One Southampton,0,News at Six,
+18:57,Tunbridge Wells,Live,Loading in Studio,Tunbridge Wells,Playout,F1-D0N343710,Typically 1'00-2'00,BBC One Tunbridge Wells,0,News at Six,
+18:57,London - NBH,Live,Loading in Studio,J,Playout,F1-D0N343711,2'30,BBC News,3,BBC News,
+18:57,Belfast,Live,Loading in Studio,Belfast,Playout,F1-D0N343708,Typically 1'00-2'00,BBC One Northern Ireland,1,News at Six,
+18:57,London - Peel,Live,Loading in Studio,London,Playout,F1-D0N343651,Typically 1'00-2'00,BBC One London,0,News at Six,
+18:57,Birmingham,Live,Loading in Studio,Birmingham,Playout,F1-D0N343709,Typically 1'00-2'00,BBC One Birmingham,0,News at Six,
+19:00,Belfast,Recording,Loading for Edit,N/A,Edit,F1-D0N343710,Varies,BBC One Northern Ireland,1,Also clipped/delivered by presenter or gallery for website,
+19:00,Glasgow,Recording,Loading for Edit,N/A,Edit,F1-D0N343711,2'00,BBC Alba,1,,
+19:00,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343708,0'10,BBC One London,3,BBC London 8pm OOV - graphics only,10 second OOV graphic played by gallery during London 8pm News
+19:00,London - NBH,Recording,Loading in Studio,H,Playout,F1-D0N343651,0'35,BBC One HD,3,UK BBC One HD,
+19:02,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343709,0'10,BBC One London,3,BBC London late OOV - graphics only,10 second OOV graphic played by gallery at junction of London weather and network weather
+19:06,London - NBH,Recording,Loading in Studio,H,Playout,F1-D0N343710,0'10,BBC One London,3,BBC London late OOV - graphics only,10 second OOV graphic played by gallery at junction of London weather and network weather
+19:10,Cardiff,Recording,Loading for Edit,N/A,Edit,F1-D0N343711,Varies,BBC One Wales,1,Also clipped/delivered by presenter or gallery for website,
+19:15,London - NBH,Recording,Loading in Studio,H,Playout,F1-D0N343708,0'10,BBC One London,3,BBC London 8pm OOV - graphics only,10 second OOV graphic played by gallery during London 8pm News
+19:20,Glasgow,Recording,Loading for Edit,N/A,Edit,F1-D0N343651,Varies,BBC One Scotland,1,Also clipped/delivered by presenter or gallery for website,
+19:20,Belfast,Recording,Loading in Studio,Belfast,Playout,F1-D0N343709,Varies,BBC One Northern Ireland,1,Also clipped/delivered by presenter or gallery for website,
+19:21,Cardiff,Recording,Loading in Studio,Cardiff,Playout,F1-D0N343710,Varies,BBC One Wales,1,Also clipped/delivered by presenter or gallery for website,
+19:23,Glasgow,Recording,Loading in Studio,Glasgow,Playout,F1-D0N343711,Varies,BBC One Scotland,1,Also clipped/delivered by presenter or gallery for website,
+19:45,Glasgow,Recording,Loading in Studio,Glasgow,Playout,F1-D0N343708,2'00,BBC Alba,1,,
+20:00,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343651,3'30,BBC News and BBC One,4,Weather for the Week Ahead,
+20:10,London - NBH,Live,Loading for Edit,N/A,Edit,F1-D0N343709,2'30,BBC News,3,BBC News,H if Outside Source in J
+20:20,London - NBH,Recording,Loading in Studio,H,Playout,F1-D0N343710,3'30,BBC News and BBC One,4,Weather for the Week Ahead,
+20:27,London - NBH,Live,Loading in Studio,J,Playout,F1-D0N343711,2'30,BBC News,3,BBC News,H if Outside Source in J
+20:35,Norwich,Recording,Loading for Edit,N/A,Edit,F1-D0N343708,Varies,BBC One Cambridge,0,Also clipped/delivered by presenter or gallery for website,
+20:35,London - NBH,Live,Loading for Edit,N/A,Edit,F1-D0N343651,2'30,BBC News,3,BBC News,H if Outside Source in J
+20:50,Plymouth,Recording,Loading for Edit,N/A,Edit,F1-D0N343709,Varies,BBC One Channel Islands,0,Also clipped/delivered by presenter or gallery for website,
+20:57,London - NBH,Live,Loading in Studio,J,Playout,F1-D0N343710,2'30,BBC News,3,BBC News,H if Outside Source in J
+21:00,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343711,1'30,BBC Two,3,UK BBC Two,
+21:00,London - NBH,Live,Loading for Edit,N/A,Edit,F1-D0N343708,2'30,BBC 1,3,News at Ten,22:35 on Fridays
+21:05,Norwich,Recording,Loading in Studio,Norwich,Playout,F1-D0N343651,Varies,BBC One Cambridge,0,Also clipped/delivered by presenter or gallery for website,
+21:10,Southampton,Recording,Loading for Edit,N/A,Edit,F1-D0N343709,Varies,BBC One Oxford,0,Also clipped/delivered by presenter or gallery for website,
+21:10,Plymouth,Recording,Loading in Studio,Plymouth,Playout,F1-D0N343710,Varies,BBC One Channel Islands,0,Also clipped/delivered by presenter or gallery for website,
+21:15,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343711,2'30,BBC News and website,3,UK 2'30,
+21:20,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343708,1'00,BBC News,3,UK 1'00,
+21:25,Southampton,Recording,Loading in Studio,Southampton,Playout,F1-D0N343651,Varies,BBC One Oxford,0,Also clipped/delivered by presenter or gallery for website,
+21:30,Belfast,Live,Loading for Edit,N/A,Edit,F1-D0N343709,Anything 0'30-3'00,BBC One Northern Ireland,1,News at Ten,
+21:30,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343710,3'00,BBC World  ,2,World 2145 Extended 3'00,
+21:30,London - NBH,Recording,Loading in Studio,H,Playout,F1-D0N343711,1'30,BBC Two,3,UK BBC Two,
+21:35,Birmingham,Live,Loading for Edit,N/A,Edit,F1-D0N343708,Anything 0'30-3'00,BBC One Birmingham,0,News at Ten,
+21:35,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343651,2'00,BBC World  ,2,World 2145 Extended 2'00,
+21:40,Bristol,Live,Loading for Edit,N/A,Edit,F1-D0N343709,Anything 0'30-3'00,BBC One Bristol,0,News at Ten,
+21:45,Cardiff,Live,Loading for Edit,N/A,Edit,F1-D0N343710,Anything 0'30-3'00,BBC One Wales,1,News at Ten,
+21:45,London - NBH,Recording,Loading in Studio,H,Playout,F1-D0N343711,2'30,BBC News and website,3,UK 2'30,
+21:45,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343708,3'00,BBC World  ,2,World 2145 Extended 3'00,
+21:50,Glasgow,Live,Loading for Edit,N/A,Edit,F1-D0N343651,Anything 0'30-3'00,BBC One Scotland,1,News at Ten,
+21:55,Leeds,Live,Loading for Edit,N/A,Edit,F1-D0N343709,Anything 0'30-3'00,BBC One Leeds,0,News at Ten,
+21:55,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343710,2'00,BBC World  ,2,World 2145 Extended 2'00,
+22:00,London - Peel,Live,Loading for Edit,N/A,Edit,F1-D0N343711,Anything 0'30-3'00,BBC One London,0,News at Ten,
+22:00,London - NBH,Recording,Loading in Studio,H,Playout,F1-D0N343708,1'00,BBC News,3,UK 1'00,
+22:05,Newcastle,Live,Loading for Edit,N/A,Edit,F1-D0N343651,Anything 0'30-3'00,BBC One Newcastle,0,News at Ten,
+22:10,Norwich,Live,Loading for Edit,N/A,Edit,F1-D0N343709,Anything 0'30-3'00,BBC One Norwich,0,News at Ten,
+22:15,Nottingham,Live,Loading for Edit,N/A,Edit,F1-D0N343710,Anything 0'30-3'00,BBC One Nottingham,0,News at Ten,
+22:20,Plymouth,Live,Loading for Edit,N/A,Edit,F1-D0N343711,Anything 0'30-3'00,BBC One Plymouth,0,News at Ten,
+22:25,Salford,Live,Loading for Edit,N/A,Edit,F1-D0N343708,Anything 0'30-3'00,BBC One Manchester,0,News at Ten,
+22:30,Southampton,Live,Loading for Edit,N/A,Edit,F1-D0N343651,Anything 0'30-3'00,BBC One Southampton,0,News at Ten,
+22:30,Tunbridge Wells,Live,Loading for Edit,N/A,Playout,F1-D0N343709,Anything 0'30-3'00,BBC One Tunbridge Wells,0,News at Ten,
+22:35,Bristol,Live,Loading in Studio,Bristol,Playout,F1-D0N343710,Anything 0'30-3'00,BBC One Bristol,0,News at Ten,
+22:35,Cardiff,Live,Loading in Studio,Cardiff,Playout,F1-D0N343711,Anything 0'30-3'00,BBC One Wales,1,News at Ten,
+22:35,Glasgow,Live,Loading in Studio,Glasgow,Playout,F1-D0N343708,Anything 0'30-3'00,BBC One Scotland,1,News at Ten,
+22:35,Leeds,Live,Loading in Studio,Leeds,Playout,F1-D0N343651,Anything 0'30-3'00,BBC One Leeds,0,News at Ten,
+22:35,Newcastle,Live,Loading in Studio,Newcastle,Playout,F1-D0N343709,Anything 0'30-3'00,BBC One Newcastle,0,News at Ten,
+22:35,Norwich,Live,Loading in Studio,Norwich,Playout,F1-D0N343710,Anything 0'30-3'00,BBC One Norwich,0,News at Ten,
+22:35,Nottingham,Live,Loading in Studio,Nottingham,Playout,F1-D0N343711,Anything 0'30-3'00,BBC One Nottingham,0,News at Ten,
+22:35,Salford,Live,Loading in Studio,Salford,Playout,F1-D0N343708,Anything 0'30-3'00,BBC One Manchester,0,News at Ten,
+22:35,Plymouth,Live,Loading in Studio,Plymouth,Playout,F1-D0N343651,Anything 0'30-3'00,BBC One Plymouth,0,News at Ten,
+22:35,Southampton,Live,Loading in Studio,Southampton,Playout,F1-D0N343709,Anything 0'30-3'00,BBC One Southampton,0,News at Ten,
+22:35,Belfast,Live,Loading in Studio,Belfast,Playout,F1-D0N343710,Anything 0'30-3'00,BBC One Northern Ireland,1,News at Ten,
+22:35,London - Peel,Live,Loading in Studio,London,Playout,F1-D0N343711,Anything 0'30-3'00,BBC One London,0,News at Ten,
+22:35,Birmingham,Live,Loading in Studio,Birmingham,Playout,F1-D0N343708,Anything 0'30-3'00,BBC One Birmingham,0,News at Ten,
+22:42,London - NBH,Live,Loading in Studio,H,Playout,F1-D0N343651,2'30,BBC 1,3,News at Ten,22:35 on Fridays
+22:55,Tunbridge Wells,Live,Loading in Studio,Tunbridge Wells,Playout,F1-D0N343709,Anything 0'30-3'00,BBC One Tunbridge Wells,0,News at Ten,
+23:00,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343710,2'45,BBC News,3,UK overnight 2'45,
+23:05,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343711,2'30,BBC News and website,3,UK overnight 2'30,
+23:05,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343708,2'30,BBC News and website,3,UK overnight 2'30,
+23:10,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343651,1'00,BBC News,3,UK overnight 1'00,
+23:10,London - NBH,Recording,Loading for Edit,N/A,Edit,F1-D0N343709,1'00,BBC News,3,UK overnight 1'00,
+23:20,London - NBH,Recording,Loading in Studio,G,Playout,F1-D0N343710,2'45,BBC News,3,UK overnight 2'45,
+23:25,London - NBH,Live,Loading in Studio,J,Playout,F1-D0N343711,2'30,BBC News,3,BBC News,
+23:30,London - NBH,Live,Loading for Edit,N/A,Edit,F1-D0N343708,2'30,BBC News,3,BBC News,
+23:45,London - NBH,Live,Loading for Edit,N/A,Edit,F1-D0N343651,1'00,BBC News,3,BBC News,
+23:57,London - NBH,Live,Loading in Studio,J,Playout,F1-D0N343709,1'00,BBC News,3,BBC News,
