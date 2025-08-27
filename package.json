@@ -1,0 +1,30 @@
+{
+  "name": "akamai-debug-headers-chrome-extension",
+  "version": "1.0.0",
+  "description": "Chrome Browser extension that adds Akamai debug headers to all outgoing requests",
+  "main": "background.js",
+  "scripts": {
+    "build": "echo 'No build process needed for this extension'",
+    "package": "zip -r akamai-debug-headers.zip . -x '*.git*' 'node_modules/*' '*.DS_Store' 'package.json' 'package-lock.json'",
+    "icons": "./create-icons.sh"
+  },
+  "keywords": [
+    "chrome-extension",
+    "akamai",
+    "debug",
+    "headers",
+    "pragma",
+    "http"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/akamai-debug-headers-chrome-extension.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/akamai-debug-headers-chrome-extension/issues"
+  },
+  "homepage": "https://github.com/yourusername/akamai-debug-headers-chrome-extension#readme"
+}

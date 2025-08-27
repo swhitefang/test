@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <style>
+    body {
+      width: 300px;
+      padding: 16px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 14px;
+      line-height: 1.4;
+    }
+    
+    .header {
+      display: flex;
+      align-items: center;
+      margin-bottom: 16px;
+    }
+    
+    .icon {
+      width: 24px;
+      height: 24px;
+      margin-right: 8px;
+    }
+    
+    h1 {
+      margin: 0;
+      font-size: 16px;
+      font-weight: 600;
+    }
+    
+    .toggle-container {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 16px;
+      padding: 12px;
+      background: #f5f5f5;
+      border-radius: 8px;
+    }
+    
+    .toggle-label {
+      font-weight: 500;
+    }
+    
+    .toggle-switch {
+      position: relative;
+      width: 44px;
+      height: 24px;
+      background: #ccc;
+      border-radius: 12px;
+      cursor: pointer;
+      transition: background 0.3s;
+    }
+    
+    .toggle-switch.enabled {
+      background: #4CAF50;
+    }
+    
+    .toggle-slider {
+      position: absolute;
+      top: 2px;
+      left: 2px;
+      width: 20px;
+      height: 20px;
+      background: white;
+      border-radius: 50%;
+      transition: transform 0.3s;
+    }
+    
+    .toggle-switch.enabled .toggle-slider {
+      transform: translateX(20px);
+    }
+    
+    .status {
+      padding: 8px 12px;
+      border-radius: 4px;
+      font-size: 12px;
+      font-weight: 500;
+      text-align: center;
+      margin-bottom: 12px;
+    }
+    
+    .status.enabled {
+      background: #e8f5e8;
+      color: #2e7d32;
+      border: 1px solid #4caf50;
+    }
+    
+    .status.disabled {
+      background: #ffeaea;
+      color: #c62828;
+      border: 1px solid #f44336;
+    }
+    
+    .info {
+      font-size: 12px;
+      color: #666;
+      line-height: 1.3;
+    }
+    
+    .header-value {
+      background: #f0f0f0;
+      padding: 8px;
+      border-radius: 4px;
+      font-family: monospace;
+      font-size: 10px;
+      word-break: break-all;
+      margin-top: 8px;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <img src="icons/icon32.png" alt="Akamai Debug" class="icon">
+    <h1>Akamai Debug Headers</h1>
+  </div>
+  
+  <div class="status" id="status">
+    Extension Status
+  </div>
+  
+  <div class="toggle-container">
+    <span class="toggle-label">Enable Debug Headers</span>
+    <div class="toggle-switch" id="toggleSwitch">
+      <div class="toggle-slider"></div>
+    </div>
+  </div>
+  
+  <div class="info">
+    <p>This extension adds Akamai debug headers to all outgoing HTTP requests when enabled.</p>
+    <p><strong>Pragma header value:</strong></p>
+    <div class="header-value" id="headerValue">
+      akamai-x-cache-on,akamai-x-cache-remote-on,akamai-x-check-cacheable,akamai-x-get-cache-key,akamai-x-get-true-cache-key,akamai-x-get-extracted-values,akamai-x-get-request-id,akamai-x-get-client-ip,akamai-x-feo-trace,akamai-x-feo-state,akamai-x-extension-on
+    </div>
+  </div>
+  
+  <script src="popup.js"></script>
+</body>
+</html>

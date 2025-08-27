@@ -1,0 +1,7 @@
+<svg width="128" height="128" xmlns="http://www.w3.org/2000/svg">
+  <rect width="128" height="128" fill="#666666" rx="20"/>
+  <text x="64" y="45" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Akamai</text>
+  <text x="64" y="65" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">Debug</text>
+  <text x="64" y="85" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14">Headers</text>
+  <rect x="20" y="95" width="88" height="8" fill="#F44336" rx="4"/>
+</svg>
